@@ -1,0 +1,15 @@
+.user-item__image img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+
+.user-item__content {
+    padding: 20px;
+    transition: .5s all;
+    width: 230px;
+    margin-bottom: 20px;
+}
+.user-item__content a {
+    color: black;
+    text-decoration: none;
+}
