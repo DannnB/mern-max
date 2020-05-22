@@ -8,3 +8,19 @@
     background: white;
     box-shadow: 0 2px 8px rgba(0,0,0.0.26);
 }
+
+.side-drawer__close {
+    padding: 20px;
+    font-size: 1.2rem;
+    color: #454545;
+    font-weight: 600;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    transition: .5s all;
+}
+
+.side-drawer__close:hover {
+    background: #ff0055;
+    color: white;
+}
